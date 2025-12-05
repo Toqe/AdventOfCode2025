@@ -11,4 +11,7 @@ Console.WriteLine("Hello, World!");
 // new Day3().Run2();
 
 // new Day4().Run1();
-new Day4().Run2();
+// new Day4().Run2();
+
+new Day5().Run1();
+new Day5().Run2();
