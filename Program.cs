@@ -23,4 +23,7 @@ Console.WriteLine("Hello, World!");
 // new Day7().Run2();
 
 // new Day8().Run1();
-new Day8().Run2();
+// new Day8().Run2();
+
+// new Day9().Run1();
+new Day9().Run2();
