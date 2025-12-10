@@ -1,29 +1,26 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// new Day01().Run1();
+// new Day01().Run2();
 
-// new Day1().Run1();
-// new Day1().Run2();
+// new Day02().Run1();
+// new Day02().Run2();
 
-// new Day2().Run1();
-// new Day2().Run2();
+// new Day03().Run1();
+// new Day03().Run2();
 
-// new Day3().Run1();
-// new Day3().Run2();
+// new Day04().Run1();
+// new Day04().Run2();
 
-// new Day4().Run1();
-// new Day4().Run2();
+// new Day05().Run1();
+// new Day05().Run2();
 
-// new Day5().Run1();
-// new Day5().Run2();
+// new Day06().Run1();
+// new Day06().Run2();
 
-// new Day6().Run1();
-// new Day6().Run2();
+// new Day07().Run1();
+// new Day07().Run2();
 
-// new Day7().Run1();
-// new Day7().Run2();
+// new Day08().Run1();
+// new Day08().Run2();
 
-// new Day8().Run1();
-// new Day8().Run2();
-
-// new Day9().Run1();
-new Day9().Run2();
+// new Day09().Run1();
+// new Day09().Run2();

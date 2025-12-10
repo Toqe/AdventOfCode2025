@@ -1,8 +1,8 @@
-public class Day2
+public class Day02
 {
     public void Run1()
     {
-        var lines = DataHelper.GetLines("day2.txt");
+        var lines = DataHelper.GetLines("day02.txt");
         var ranges = lines[0].Split(",");
         var sum = 0L;
         
@@ -35,7 +35,7 @@ public class Day2
 
     public void Run2()
     {
-        var lines = DataHelper.GetLines("day2.txt");
+        var lines = DataHelper.GetLines("day02.txt");
         var ranges = lines[0].Split(",");
         var sum = 0L;
         

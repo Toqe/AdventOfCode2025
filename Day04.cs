@@ -1,14 +1,14 @@
-public class Day4
+public class Day04
 {
     public void Run1()
     {
-        var lines = DataHelper.GetLines("day4.txt").Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
+        var lines = DataHelper.GetLines("day04.txt").Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
         var result = this.Iterate(lines);
     }
 
     public void Run2()
     {
-        var lines = DataHelper.GetLines("day4.txt").Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
+        var lines = DataHelper.GetLines("day04.txt").Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
         int toRemoveCount;
         var sum = 0;
 

@@ -1,8 +1,8 @@
-public class Day5
+public class Day05
 {
     public void Run1()
     {
-        var lines = DataHelper.GetLines("day5.txt");
+        var lines = DataHelper.GetLines("day05.txt");
         var emptyLineIndex = lines.ToList().FindIndex(string.IsNullOrWhiteSpace);
 
         var freshIdRanges = lines
@@ -37,7 +37,7 @@ public class Day5
 
     public void Run2()
     {
-        var lines = DataHelper.GetLines("day5.txt");
+        var lines = DataHelper.GetLines("day05.txt");
 
         var emptyLineIndex = lines.ToList().FindIndex(string.IsNullOrWhiteSpace);
 

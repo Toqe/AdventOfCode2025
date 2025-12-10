@@ -1,8 +1,8 @@
-public class Day1 
+public class Day01 
 {
     public void Run1()
     {
-        var data = DataHelper.GetLines("day1.txt");
+        var data = DataHelper.GetLines("day01.txt");
 
         var pos = 50;
         var count = 0;
@@ -38,7 +38,7 @@ public class Day1
 
     public void Run2()
     {
-        var data = DataHelper.GetLines("day1.txt");
+        var data = DataHelper.GetLines("day01.txt");
 
         var pos = 50;
         var count = 0;

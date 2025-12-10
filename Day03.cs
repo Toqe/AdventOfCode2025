@@ -1,8 +1,8 @@
-public class Day3
+public class Day03
 {
     public void Run1()
     {
-        var lines = DataHelper.GetLines("day3.txt");
+        var lines = DataHelper.GetLines("day03.txt");
         var sum = 0L;
 
         foreach (var line in lines)
@@ -66,7 +66,7 @@ public class Day3
 
     public void Run2()
     {
-        var lines = DataHelper.GetLines("day3.txt");
+        var lines = DataHelper.GetLines("day03.txt");
         var sum = 0L;
 
         foreach (var line in lines)

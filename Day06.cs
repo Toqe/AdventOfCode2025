@@ -1,8 +1,8 @@
-public class Day6
+public class Day06
 {
     public void Run1()
     {
-        var lines = DataHelper.GetLines("day6.txt");
+        var lines = DataHelper.GetLines("day06.txt");
 
         var matrix = lines
             .Where(x => !string.IsNullOrWhiteSpace(x))
@@ -49,7 +49,7 @@ public class Day6
 
     public void Run2()
     {
-        var lines = DataHelper.GetLines("day6.txt")
+        var lines = DataHelper.GetLines("day06.txt")
             .Where(x => !string.IsNullOrWhiteSpace(x))
             .ToList();
         
