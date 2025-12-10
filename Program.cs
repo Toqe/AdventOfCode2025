@@ -24,3 +24,6 @@
 
 // new Day09().Run1();
 // new Day09().Run2();
+
+// new Day10().Run1();
+new Day10().Run2();
